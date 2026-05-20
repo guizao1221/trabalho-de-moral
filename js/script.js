@@ -148,17 +148,8 @@ function game() {
 		var translateString = "translateX(" + xMovement + "px) " + "translateY(" + yMovement + "px)"
 		tile.style.webkitTransform = translateString;
 		tile.style.backgroundPosition = -xMovement + "px " + -yMovement + "px";
-		tile.style.backgroundImage = 'url(https://i.ibb.co/xMbH8yL/1-650x650.jpg)';
+		tile.style.backgroundImage = 'url(https://i.pinimg.com/736x/5b/10/84/5b1084a726363c3982fc3550c8ba89f1.jpg)';
 	}
-
-	function backgroundSelector() {
-		var select = document.getElementById("background");
-		select.onchange = () => {
-			var bg = document.getElementById("background").value;
-			var tiles = document.querySelectorAll('.tile');
-			for (var i = 0; i < tiles.length; i++) {
-				tiles[i].style.backgroundImage = 'url(' + bg + ')';
-			}
 		};
 	}
 
