@@ -130,7 +130,6 @@ function game() {
 	// Board setup according to the tileMap
 	document.querySelector('#shuffle').addEventListener('click', shuffle, true);
 	document.querySelector('#solve').addEventListener('click', solve, true);
-	backgroundSelector();
 	document.querySelector('#overlay').addEventListener('click', endCongratsOverLay, true);
 	var tiles = document.querySelectorAll('.tile');
 	var delay = -50;
