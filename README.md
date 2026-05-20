@@ -28,7 +28,7 @@
 
 ## Demo
 <h4 align="center" style="bold">
-  <p>Live at https://trongtuyen96.github.io/sliding-puzzle</p>
+  <p>Live at https://guizao1221.github.io/trabalho-de-moral</p>
   <p><em>Or</em></p>
   <p>Click below to play</p>
   <a alt="Play the game" href="https://trongtuyen96.github.io/sliding-puzzle">
