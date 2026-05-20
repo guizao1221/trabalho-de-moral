@@ -228,29 +228,5 @@ body hr {
 	cursor: pointer;
 }
 
-#text {
-	font-family: "Indie Flower", cursive;
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	font-size: 3.5em;
-	color: white;
-	transform: translate(-50%, -50%);
-	-ms-transform: translate(-50%, -50%);
-	text-align: center;
-}
 
-@media only screen and (max-width: 650px) {
-	.sliding-puzzle-figure {
-		width: 90vw;
-		height: 90vw;
-		max-height: 68vh;
-	}
-	.sliding-puzzle-figure .sliding-puzzle {
-		border-width: 10px;
-		border-radius: 4px;
-	}
-	.sliding-puzzle-figure .tile {
-		font-size: 0em;
-	}
 }
