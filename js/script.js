@@ -150,8 +150,6 @@ function game() {
 		tile.style.backgroundPosition = -xMovement + "px " + -yMovement + "px";
 		tile.style.backgroundImage = 'url(https://i.pinimg.com/736x/5b/10/84/5b1084a726363c3982fc3550c8ba89f1.jpg)';
 	}
-		};
-	}
 
 	function tileClicked(event) {
 		var tileNumber = event.target.innerHTML;
