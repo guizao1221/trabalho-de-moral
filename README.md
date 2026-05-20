@@ -26,29 +26,6 @@
   </a>
 </p>
 
-## Table of Contents
-- [Key Features](#key-features)
-- [Screenshots](#screenshots)
-- [Demo](#demo)
-- [Author](#author)
-- [License](#license)
-
-## Key Features
-- Background puzzle: an extention of 15 puzzle game with color background.
-- Shuffle function: intended change/shuffle tiles.
-- Solve function: solve the game.
-- Animated transition: tiles transition by delay of 200ms.
-- Background selection: Change background within available options.
-
-## Screenshots
-<h3 align="center">
-  <a><img src="https://github.com/trongtuyen96/sliding-puzzle/blob/master/covers/Capture-1.PNG" alt="capture-1" width="400"></a>
-	
-  <a><img src="https://github.com/trongtuyen96/sliding-puzzle/blob/master/covers/Capture-2.PNG" alt="capture-2" width="400"></a>
-  
-  <a><img src="https://github.com/trongtuyen96/sliding-puzzle/blob/master/covers/Capture-3.PNG" alt="capture-3" width="400"></a>
-</h3>
-
 ## Demo
 <h4 align="center" style="bold">
   <p>Live at https://trongtuyen96.github.io/sliding-puzzle</p>
